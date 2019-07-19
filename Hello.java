@@ -8,5 +8,6 @@ public class Hello
 		serr("²âÊÔ²âÊÔ£¡");
 		System.out.println("²âÊÔ·½·¨£¡£¡£¡");
 		System.out.println("master£¡£¡£¡");
+		System.out.println("²âÊÔ·½·¨222£¡£¡£¡");
 	}
 }
