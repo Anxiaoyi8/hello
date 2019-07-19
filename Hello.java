@@ -9,6 +9,7 @@ public class Hello
 		System.out.println("测试方法！！！");
 		System.out.println("master！！！");
 		System.out.println("测试方法222！！！");
+		System.out.println("local！！！");
 	}
 public static void main(String[] args){
 		System.out.println("Hello World");
