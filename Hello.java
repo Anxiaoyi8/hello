@@ -6,5 +6,6 @@ public class Hello
 
 	public void test(){
 		serr("²âÊÔ²âÊÔ£¡");
+		System.out.println("²âÊÔ·½·¨£¡£¡£¡");
 	}
 }
