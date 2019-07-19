@@ -5,10 +5,11 @@ public class Hello
 	}
 
 	public void test(){
-		serr("²âÊÔ²âÊÔ£¡");
-		System.out.println("²âÊÔ·½·¨£¡£¡£¡");
-		System.out.println("master£¡£¡£¡");
-		System.out.println("²âÊÔ·½·¨222£¡£¡£¡");
+		serr("æµ‹è¯•æµ‹è¯•ï¼");
+		System.out.println("æµ‹è¯•æ–¹æ³•ï¼ï¼ï¼");
+		System.out.println("masterï¼ï¼ï¼");
+		System.out.println("æµ‹è¯•æ–¹æ³•222ï¼ï¼ï¼");
+		System.out.println("remoteï¼ï¼ï¼");
 	}
 public static void main(String[] args){
 		System.out.println("Hello World");
